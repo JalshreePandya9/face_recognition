@@ -59,8 +59,8 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
-**Free Software, Hell Yeah!**
+Made By : [Jalshree Pandya]
+
 
 
 
